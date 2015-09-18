@@ -1,6 +1,6 @@
-### My go journey
-This repository will document my learning of "Go" Programming language.
+## go_journey
+My journey of learning go language. This repository will document my progress in learning "Go" programming language.
 
-## A tour of Go
-I am starting with [A tour of Go]("https://tour.golang.org/list")
+### So far
+- [A tour of Go](https://tour.golang.org)
 
