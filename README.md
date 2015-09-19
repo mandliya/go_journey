@@ -1,5 +1,5 @@
 ## go_journey
-My journey of learning go language. This repository will document my progress in learning "Go" programming language.
+My journey of learning go programming language. This repository will document my progress in learning "Go" programming language.
 
 ### So far
 
