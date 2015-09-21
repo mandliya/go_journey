@@ -44,7 +44,7 @@ My journey of learning go programming language. This repository will document my
   - [Exercise slices](tour_of_go/exercise-slices/exercise-slices.go)
   - [Maps in Go](tour_of_go/maps/maps.go)
   - [Map literals](tour_of_go/map-literals/map-literals.go)
-  - [Mutating Maps](mutating-maps/mutating-maps.go)
+  - [Mutating Maps](tour_of_go/mutating-maps/mutating-maps.go)
   - [Exercise on Maps](tour_of_go/exercise-maps/exercise-maps.go)
   - [Function values](tour_of_go/function-values/function-values.go)
   - [Function closures](tour_of_go/function-closure/function-closure.go)
