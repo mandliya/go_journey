@@ -50,7 +50,7 @@ My journey of learning go programming language. This repository will document my
   - [Function closures](tour_of_go/function-closure/function-closure.go)
   - [Exercise on Function closures](tour_of_go/fibonacci_closure/fibonacci_closure.go)
   - [Methods](tour_of_go/methods/methods.go)
-  - [Methods on any types](tour_of_go/methods-on-any-types/methods-on-any-types.go)
+  - [Methods on any types](tour_of_go/methods-on-any-type/methods-on-any-type.go)
   - [Methods with pointer receivers](tour_of_go/methods-pointer-recv/methods-pointer-recv.go)
   - [Interfaces](tour_of_go/interfaces/interfaces.go)
   - [Interfaces are satisfied implicitly](tour_of_go/interface-implicitly-satisfied/interface-implicitly-satisfied.go)
